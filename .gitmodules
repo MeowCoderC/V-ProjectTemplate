@@ -1,0 +1,3 @@
+[submodule "Assets/V-GameFoundation"]
+	path = Assets/V-GameFoundation
+	url = git@github.com:MeowCoderC/V-GameFoundation.git
