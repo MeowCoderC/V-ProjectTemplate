@@ -5,6 +5,6 @@ public class TestingService : ITickable
 {
     public void Tick()
     {
-        Debug.Log("Testing 2");
+        //Debug.Log("Testing 2");
     }
 }
