@@ -1,10 +1,11 @@
 using UnityEngine;
 using VContainer.Unity;
+using VGameFoundation.Scripts.Utilities.LogService;
 
 public class TestingService : ITickable
 {
     public void Tick()
     {
-        //Debug.Log("Testing 2");
+        //LogService.Log("Testing Service");
     }
 }
